@@ -1,0 +1,60 @@
+canonical_identifier: bkk:krp/KR6v0035/v1
+canonical_location: https://kanripo.org/bkk/KR6v0035/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 因緣心釋論開決記
+  identifiers:
+    alt_id:
+    - W03n0028
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW03/ZW03n0028.xml
+    old_id: ZW03n0028
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0035_000.yaml, hash: 'sha256:1f9daf518b8ad7f2db3df249e20c131e0dd9f3cf53c425a2b4b402dfa287e367'}
+  - {seq: 1, filename: KR6v0035_001.yaml, hash: 'sha256:d17ec2e1ce47c80f403a9b255bce9b9299fd68be221401c43407cec54b5f0150'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0035_000.markers.yaml, hash: 'sha256:69952ba095c2a683efd161281d4c02d6d968b014d9524036e1d1efcfd4c0b978'}
+  - {seq: 1, role: markers, filename: assets/KR6v0035_001.markers.yaml, hash: 'sha256:3191ab394f3cc092383034f0b7983dc10bc12bde40dd05510f58abe4233c0ee4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0035_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0035_ZW_000-mulu-2
+    span:
+    - front
+    - 496
+    - 496
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0035_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 7909
+  label: 因緣心釋論開決記一卷
+  type: juan
+  level: 1
+hash: sha256:843c9d5c7a16fc4daba669f20bc90e708f12f3791dba71cbb15bf71a82637671
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: ZW
