@@ -85,7 +85,6 @@ markers:
   - {type: punctuation, offset: 251, content: ，, id: KR6v0035_ZW_000-bkkpn53}
   - {type: punctuation, offset: 259, content: ，, id: KR6v0035_ZW_000-bkkpn54}
   - {type: line-break, offset: 261, content: '', id: KR6v0035_ZW_000-0224a18, ed: ZW, 'n': 0224a18}
-  - {type: substitution, offset: 261, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 263, content: 《, id: KR6v0035_ZW_000-bkkpn55}
   - {type: punctuation, offset: 266, content: 》, id: KR6v0035_ZW_000-bkkpn56}
   - {type: punctuation, offset: 277, content: 。, id: KR6v0035_ZW_000-bkkpn57}
@@ -103,7 +102,6 @@ markers:
   - {type: punctuation, offset: 302, content: ，, id: KR6v0035_ZW_000-bkkpn68}
   - {type: line-break, offset: 306, content: '', id: KR6v0035_ZW_000-0224a20, ed: ZW, 'n': 0224a20}
   - {type: punctuation, offset: 313, content: ，, id: KR6v0035_ZW_000-bkkpn69}
-  - {type: substitution, offset: 314, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 320, content: ，, id: KR6v0035_ZW_000-bkkpn70}
   - {type: punctuation, offset: 322, content: 「, id: KR6v0035_ZW_000-bkkpn71}
   - {type: punctuation, offset: 326, content: 」, id: KR6v0035_ZW_000-bkkpn72}
@@ -131,7 +129,6 @@ markers:
   - {type: punctuation, offset: 352, content: 」, id: KR6v0035_ZW_000-bkkpn92}
   - {type: punctuation, offset: 353, content: 。, id: KR6v0035_ZW_000-bkkpn93}
   - {type: punctuation, offset: 359, content: ，, id: KR6v0035_ZW_000-bkkpn94}
-  - {type: substitution, offset: 360, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 370, content: 。, id: KR6v0035_ZW_000-bkkpn95}
   - {type: line-break, offset: 370, content: '', id: KR6v0035_ZW_000-0224a23, ed: ZW, 'n': 0224a23}
   - {type: punctuation, offset: 372, content: ，, id: KR6v0035_ZW_000-bkkpn96}
@@ -169,7 +166,6 @@ markers:
   - {type: punctuation, offset: 455, content: '5', id: KR6v0035_ZW_000-bkkpn119}
   - {type: punctuation, offset: 455, content: '8', id: KR6v0035_ZW_000-bkkpn120}
   - {type: punctuation, offset: 456, content: ，, id: KR6v0035_ZW_000-bkkpn121}
-  - {type: substitution, offset: 459, original: 複, replacement: 復, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3873}}
   - {type: line-break, offset: 462, content: '', id: KR6v0035_ZW_000-0225a04, ed: ZW, 'n': 0225a04}
   - {type: punctuation, offset: 464, content: '2', id: KR6v0035_ZW_000-bkkpn122}
   - {type: punctuation, offset: 464, content: '6', id: KR6v0035_ZW_000-bkkpn123}
@@ -222,10 +218,9 @@ markers:
   - {type: line-break, offset: 496, content: '', id: KR6v0035_ZW_000-0225a08, ed: ZW, 'n': 0225a08}
   - {type: line-break, offset: 496, content: '', id: KR6v0035_ZW_000-0225a09, ed: ZW, 'n': 0225a09}
   - {type: punctuation, offset: 496, content: 〔, id: KR6v0035_ZW_000-bkkpn160}
-  - {type: substitution, offset: 496, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 498, content: 〕, id: KR6v0035_ZW_000-bkkpn161}
   - {type: line-break, offset: 498, content: '', id: KR6v0035_ZW_000-0225a10, ed: ZW, 'n': 0225a10}
   - {type: line-break, offset: 498, content: '', id: KR6v0035_ZW_000-0225a11, ed: ZW, 'n': 0225a11}
   body: []
   back: []
-hash: sha256:69952ba095c2a683efd161281d4c02d6d968b014d9524036e1d1efcfd4c0b978
+hash: sha256:8f7a1876c2b3e9242d144ef74141d2f63fa9b1754de68808f8fef805a7b5a9f4

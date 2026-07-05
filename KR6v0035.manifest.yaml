@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0035_000.yaml, hash: 'sha256:1f9daf518b8ad7f2db3df249e20c131e0dd9f3cf53c425a2b4b402dfa287e367'}
-  - {seq: 1, filename: KR6v0035_001.yaml, hash: 'sha256:d17ec2e1ce47c80f403a9b255bce9b9299fd68be221401c43407cec54b5f0150'}
+  - {seq: 0, filename: KR6v0035_000.yaml, hash: 'sha256:a9b7ba52cb504cc019ffd8ab3f1e939672be00200104a3f8d86ef72f1625a3a2'}
+  - {seq: 1, filename: KR6v0035_001.yaml, hash: 'sha256:3f0a785d36a784fce317c6106a2a6484c4902d6d3b95ad384ffa6d573ec14469'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0035_000.markers.yaml, hash: 'sha256:69952ba095c2a683efd161281d4c02d6d968b014d9524036e1d1efcfd4c0b978'}
-  - {seq: 1, role: markers, filename: assets/KR6v0035_001.markers.yaml, hash: 'sha256:3191ab394f3cc092383034f0b7983dc10bc12bde40dd05510f58abe4233c0ee4'}
+  - {seq: 0, role: markers, filename: assets/KR6v0035_000.markers.yaml, hash: 'sha256:8f7a1876c2b3e9242d144ef74141d2f63fa9b1754de68808f8fef805a7b5a9f4'}
+  - {seq: 1, role: markers, filename: assets/KR6v0035_001.markers.yaml, hash: 'sha256:db57f6c4b8069f0f2dcdb3961fc6d518539bedcefc7470cbf989612cc42dfda9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -52,9 +52,6 @@ table_of_contents:
   label: 因緣心釋論開決記一卷
   type: juan
   level: 1
-hash: sha256:843c9d5c7a16fc4daba669f20bc90e708f12f3791dba71cbb15bf71a82637671
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bc13b15f984476285408f6041d83067c3fdfbb34b0d8877d25ddffd8c7bedcf3
 editions:
 - short: ZW
